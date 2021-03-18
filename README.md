@@ -1,5 +1,5 @@
 # caps-to-escape-autohotkey
-Easiest way to map caps lock to escape on windows:) Dedicated to all VIM users on windows&lt;3
+Easiest way to map caps lock to escape:) Dedicated to all VIM users on windows&lt;3
 
 ## Usage:
 1. Make sure you have AutoHotkey installed on your computer. You can find it [here!](https://www.autohotkey.com/)
